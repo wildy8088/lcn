@@ -1,2 +1,1 @@
-# lcn
-License
+# Kumpulan Lisensi Yang digunakan dalam project
